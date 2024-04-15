@@ -1,4 +1,4 @@
-# savana_vendor_app
+# sixvalley_vendor_app
 
 A new Flutter application.
 
