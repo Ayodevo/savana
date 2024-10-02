@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>366490429520-vl0cggqbe23f0j77lb12sc7enmerukqt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.366490429520-vl0cggqbe23f0j77lb12sc7enmerukqt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>366490429520-staoji32qab3r3ul49aiu603gb7aprsr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm6qzOuIZcDE178s9yj0TDx58qoqcZXvI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>366490429520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.savana.tn</string>
+	<key>PROJECT_ID</key>
+	<string>savana-da309</string>
+	<key>STORAGE_BUCKET</key>
+	<string>savana-da309.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:366490429520:ios:441779da73e54a858bc955</string>
+	<key>DATABASE_URL</key>
+	<string>https://savana-da309-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
