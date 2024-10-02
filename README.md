@@ -1,4 +1,4 @@
-# sixvalley_vendor_app
+# savana marketplace
 
 A new Flutter application.
 
